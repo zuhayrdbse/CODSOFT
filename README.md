@@ -5,7 +5,7 @@ Greetings to the CodSoft Internship Tasks Repository! This repository houses all
 1. ATM Interface
   This Java project is an ATM (Automated Teller Machine) simulator that provides a comprehensive experience for users to manage their bank accounts. It includes secure user authentication, account balance checking, depositing, and withdrawing funds. Users can interact with the ATM through a user-friendly command-line interface. The ATM simulator also allows for multiple rounds, and at the end, it displays the user's score based on the number of successful transactions or rounds completed. While designed for educational purposes, this project offers a foundation for building more complex and secure financial applications.
 
-3. Currency Converter
+2. Currency Converter
    This Java project is a Currency Converter application that enables users to perform currency conversions with up-to-date exchange rates. It leverages a Currency API to fetch real-time conversion rates for up to 10 different currencies. Users can input an amount in their base currency and select a target currency for conversion. The app then provides the converted amount based on the latest exchange rates. It offers a practical tool for individuals and businesses dealing with international transactions, making it easier to perform accurate currency conversions in real-time.
    
 3.Number Guessing Game
